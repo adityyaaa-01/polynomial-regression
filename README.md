@@ -29,3 +29,8 @@ Included plots show:
 ## 📁 Files
 
 - `PolynomialRegression.ipynb` – Jupyter Notebook with code and outputs
+
+---
+
+**📌 Don't forget to star ⭐ the repository if you found it helpful!**
+
